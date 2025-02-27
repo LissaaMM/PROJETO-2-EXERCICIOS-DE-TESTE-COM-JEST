@@ -1,7 +1,7 @@
 const usuario = {
-    nome: 'Daiara',
+    nome: 'Larissa',
     idade: 17,
-    email: 'daiara@email.com',
+    email: 'larissa@email.com',
   }
   
   module.exports = usuario
